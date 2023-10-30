@@ -2,7 +2,7 @@
 This repository is all about Data Structures and Algorithms. 
 It focuses on the implementation of the different concepts that are in DSA using the PHP language.
 
-## Data Structures ##
+### Data Structures ###
 * Stacks
 * Linear Queues
 * Circular Queues
@@ -11,7 +11,7 @@ It focuses on the implementation of the different concepts that are in DSA using
 * Singly Linked Lists
 * Doubly Linked Lists
 
-## Algorithms ##
+### Algorithms ###
 * Bubble Sort
 * Selection Sort
 * Insertion Sort
